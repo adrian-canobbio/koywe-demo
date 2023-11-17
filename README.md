@@ -1,3 +1,3 @@
 # koywe-demo
-Automatizacion demo challenge
-To reproduce the script plese follow this guide https://webdriver.io/es/docs/gettingstarted/
+Automatizacion demo challenge -
+To reproduce the script please follow this guide https://webdriver.io/es/docs/gettingstarted/
